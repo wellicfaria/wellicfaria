@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [Wellington Faria]([https://seulink.com](https://www.linkedin.com/in/wellicfaria/) 
+# [Wellington Faria](https://www.linkedin.com/in/wellicfaria/)
 ## Lead Analytics Engineer at Nubank
 
 - Pronouns: He/His 
