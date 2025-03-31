@@ -43,6 +43,3 @@ I am an experienced Lead Analytics Engineer with over 7 years in the data engine
 - Programming Logic Teacher at Inatel's Cas@viva Project
 - Diversity Committee Member at everis
 - D&I Ambassador at Nubank
-
-### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellicfaria)](https://github.com/wellicfaria) 
